@@ -1,0 +1,15 @@
+{
+  "name": "orbmitra-backend",
+  "version": "1.0.0",
+  "private": true,
+  "description": "OrbMitra backend API",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "api": "node src/server.js",
+    "dev": "node src/server.js"
+  },
+  "dependencies": {
+    "pg": "^8.20.0"
+  }
+}

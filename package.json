@@ -1,0 +1,16 @@
+{
+  "name": "orbmitra",
+  "version": "1.0.0",
+  "private": true,
+  "description": "OrbMitra QA assistant backend and frontend",
+  "main": "backend/src/server.js",
+  "scripts": {
+    "start": "npm --prefix backend start",
+    "api": "npm --prefix backend start",
+    "frontend": "npm --prefix frontend start",
+    "dev": "npm --prefix backend start"
+  },
+  "dependencies": {
+    "pg": "^8.20.0"
+  }
+}
