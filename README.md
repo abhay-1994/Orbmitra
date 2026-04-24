@@ -42,13 +42,14 @@ Built as the core chatbot system for **BugOrbit**, it enables users to interact 
 
 ## 📸 Preview
 
-> Add your screenshots here
-> Example:
+<p align="center">
+  <img src="docs\images\admin-dashboard.png" alt="OrbMitra Logo" width="120"/>
+</p>
 
-```
-docs/images/chat-ui.png
-docs/images/admin-dashboard.png
-```
+<p align="center">
+  <img src="docs\images\chat-ui.png" alt="OrbMitra Logo" width="120"/>
+</p>
+
 
 ---
 
